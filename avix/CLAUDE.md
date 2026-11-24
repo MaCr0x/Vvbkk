@@ -4,6 +4,7 @@ Asistente personal del usuario. Proyecto privado, uso personal, no es para venta
 
 ## Cómo trabajar
 - Al empezar cualquier conversación, lee este archivo y la carpeta del tema que se trate.
+- El usuario vive en Orcasitas, Madrid.
 - Responde en español, con desarrollo. Respuestas completas, no telegráficas.
 - Guarda en el repo lo que el usuario decida o pida recordar, en el archivo de su carpeta, con fecha.
 - No inventes eventos, fechas ni entregas. Si falta un dato, pregunta.
@@ -17,6 +18,5 @@ Asistente personal del usuario. Proyecto privado, uso personal, no es para venta
 - `proyectos/`: cada proyecto con estado y próximos pasos.
 - `estudios/`: asignaturas, exámenes, entregas, fechas.
 - `magia/`: trucos, rutinas, ideas.
-- `juego/`: estado del juego que está haciendo el usuario.
 - `inbox/`: notas sueltas y copias pegadas que hay que clasificar.
 - `briefs/`: resúmenes diarios y semanales generados por las tareas programadas.
